@@ -1,0 +1,70 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Departed",
+      "rate": "8.5",
+      "src": "../departed.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Grand Budapest Hotel",
+      "rate": "8.1",
+      "src": "../grandbudapesthotel.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Westworld",
+      "rate": "8.8",
+      "src": "../westworld.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Black Mirror",
+      "rate": "8.9",
+      "src": "../blackmirror.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": [
+        "fadi"
+      ],
+      "body": [
+        "some comment"
+      ],
+      "movieId": 1
+    },
+    {
+      "id": 2,
+      "name": [
+        "fadi"
+      ],
+      "body": [
+        "some comment"
+      ],
+      "movieId": 2
+    },
+    {
+      "id": 3,
+      "name": [
+        "fadi"
+      ],
+      "body": [
+        "some comment"
+      ],
+      "movieId": 3
+    },
+    {
+      "id": 4,
+      "name": [
+        "fadi"
+      ],
+      "body": [
+        "some comment"
+      ],
+      "movieId": 4
+    }
+  ]
+}
